@@ -13,3 +13,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="60" height="60"/>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kamalamalay)](https://git.io/streak-stats)
