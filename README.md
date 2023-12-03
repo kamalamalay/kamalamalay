@@ -14,4 +14,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="60" height="60"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kamalamalay)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kamalamalay&theme=dark&background=000000)](https://git.io/streak-stats)
